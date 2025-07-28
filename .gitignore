@@ -1,0 +1,4 @@
+st/
+myenv/
+.env
+vectorstore/
